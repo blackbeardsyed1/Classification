@@ -1,3 +1,2 @@
-# Sci-Kit-Book-Chapter-Wise
+# Classification Projects
 
-Chapter wise Go-Through.
